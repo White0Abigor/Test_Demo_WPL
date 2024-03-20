@@ -1,0 +1,22 @@
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\bin\Debug\caphca.exe.config
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\bin\Debug\caphca.exe
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\bin\Debug\caphca.pdb
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.csproj.AssemblyReference.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.csproj.SuggestedBindingRedirects.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.Form1.resources
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.Properties.Resources.resources
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.csproj.GenerateResource.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.csproj.CoreCompileInputs.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.exe
+C:\Users\beluy\OneDrive\Рабочий стол\Порохина\caphca\caphca\obj\Debug\caphca.pdb
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\bin\Debug\caphca.exe.config
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\bin\Debug\caphca.exe
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\bin\Debug\caphca.pdb
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.csproj.AssemblyReference.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.csproj.SuggestedBindingRedirects.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.Form1.resources
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.Properties.Resources.resources
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.csproj.GenerateResource.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.csproj.CoreCompileInputs.cache
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.exe
+C:\Users\beluy\OneDrive\Рабочий стол\Проги C#\caphca\caphca\obj\Debug\caphca.pdb
